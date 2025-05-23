@@ -87,8 +87,8 @@ closegraph();
 }
 ```
 Program to implement the various transformations on three dimensional odjects using a c coding.
-DEVELOPED BY: AHAMADH SULAIMAN M
-REGISTER NUMBER: 212224230009
+DEVELOPED BY: DHIVYAN S
+REGISTER NUMBER: 212224230067
 ## Output :
 ![Screenshot 2025-05-09 103808](https://github.com/user-attachments/assets/dad1baf7-85f6-4e54-b769-a44677db6ec1)
 ![Screenshot 2025-05-09 103823](https://github.com/user-attachments/assets/d0a86bee-647f-4df5-a3a5-f966e4107b56)
